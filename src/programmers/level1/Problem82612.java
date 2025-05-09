@@ -3,6 +3,7 @@ package programmers.level1;
 /**
  * 문제: 부족한 금액 계산하기
  * 링크: https://school.programmers.co.kr/learn/courses/30/lessons/82612
+ *
  */
 public class Problem82612 {
     public long solution(int price, int money, int count) {

@@ -3,9 +3,6 @@ package programmers.level1;
 /**
  * 문제: 두 수의 차 구하기
  * 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120803
- *
- * 접근 방법:
- *
  */
 public class Problem120803 {
 

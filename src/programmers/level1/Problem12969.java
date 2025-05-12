@@ -8,7 +8,6 @@ import java.util.Scanner;
  *
  * a와 b를 입력받아 별(*)로 직사각형 출력하기
  */
-
 public class Problem12969 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

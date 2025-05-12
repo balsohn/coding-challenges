@@ -3,7 +3,7 @@ package programmers.level1;
 import java.util.Arrays;
 
 /**
- * 문제: 최대공약수가 최소공배수
+ * 문제: 최대공약수와 최소공배수
  * 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12940
  *
  */
